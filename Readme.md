@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GoogleTranslatorProvider.cs](./CS/GoogleTranslatorProvider/GoogleTranslatorProvider.cs) (VB: [GoogleTranslatorProvider.vb](./VB/GoogleTranslatorProvider/GoogleTranslatorProvider.vb))
+* [Module.cs](./CS/GoogleTranslatorProvider/Module.cs) (VB: [Module.vb](./VB/GoogleTranslatorProvider/Module.vb))
+<!-- default file list end -->
 # OBSOLETE - How to create a custom translation provider for the Localization tool
 
 
